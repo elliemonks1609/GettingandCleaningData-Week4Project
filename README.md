@@ -26,5 +26,5 @@ The run_analysis.r R script contains code used to complete the following:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##The tidied dataset
+## The tidied dataset
 tidy_final.txt is the output textfile from the above R Script code. 
